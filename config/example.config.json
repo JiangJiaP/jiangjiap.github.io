@@ -1,8 +1,0 @@
-{
-    "isRandomIdentityEnabled": true,
-    "isAnonymousAccessEnabled": true,
-    "alert": "",
-    "whitelist": [
-    ],
-    "isWhitelistEnabled": false
-}

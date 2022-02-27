@@ -1,9 +1,0 @@
-{
-  "ignore": [
-    "config",
-    "logs"
-  ],
-  "watch": [
-    "src"
-  ]
-}
